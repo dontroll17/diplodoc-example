@@ -1,0 +1,11 @@
+project:
+  title: Документация Petstore API
+  description: Документация API магазина питомцев
+
+sources:
+  - name: Swagger Petstore API
+    type: openapi
+    file: api/petstore-api-draft.yaml
+    format: swagger-ui
+    options:
+      theme: default 
