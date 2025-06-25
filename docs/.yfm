@@ -1,6 +1,7 @@
+singlePage: true
+
 langs: ['ru', 'en']
 
 docs-viewer:
+  project-name: petshop
   langs: ['en','ru']
-
-  singlePage: true
